@@ -1,2 +1,2 @@
 # Face-mask-detection
-Face Mask detection using Convolutional Neural Network
+Face Mask detection using Convolutional Neural Network (CNN)
