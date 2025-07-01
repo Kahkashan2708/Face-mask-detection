@@ -1,4 +1,4 @@
-# Face Mask Detection 🛡
+# Face Mask Detection
 
 This project focuses on building a **Face Mask Detection** system using image classification. The model is trained on a dataset of images containing people with and without face masks and can distinguish between the two classes effectively.
 
@@ -46,7 +46,7 @@ This project focuses on building a **Face Mask Detection** system using image cl
 ---
 
 
-## 📈 Model Performance
+## Model Performance
 
 The model was trained for **10 epochs** and achieved the following results:
 
