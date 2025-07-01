@@ -44,7 +44,7 @@ This project focuses on building a **Face Mask Detection** system using image cl
 - Confusion Matrix and Accuracy Curve were plotted for performance visualization
 
 ---
----
+
 
 ## 📈 Model Performance
 
@@ -58,13 +58,9 @@ The model was trained for **10 epochs** and achieved the following results:
 | 4     | 92.54%         | 0.1740     | 90.25%       | 0.2397   |
 | 5     | 93.77%         | 0.1699     | 91.07%       | 0.1953   |
 | 6     | 93.95%         | 0.1597     | 92.23%       | 0.1996   |
-| 7     | 95.06%         | 0.1240     | 91.57%       | 0.1906   |
-| 8     | 95.71%         | 0.1072     | 91.40%       | 0.2410   |
-| 9     | 96.27%         | 0.0832     | 91.90%       | 0.4087   |
-| 10    | 96.83%         | 0.0806     | 90.58%       | 0.4763   |
 
-✨ **Peak validation accuracy**: **92.23%** (Epoch 6)  
-📉 Training continued to improve, while slight overfitting was observed after Epoch 7.
+
+✨ **Peak validation accuracy**: **92.23%*  
 
 ---
 
