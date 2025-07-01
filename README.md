@@ -38,3 +38,24 @@ This project focuses on building a **Face Mask Detection** system using image cl
 - Evaluation Metrics: `accuracy`
 
 ---
+## 📊 Results
+
+- Achieved strong accuracy on the test set
+- Confusion Matrix and Accuracy Curve were plotted for performance visualization
+
+---
+
+## 🛠️ Requirements
+
+- Python
+- NumPy
+- Matplotlib
+- OpenCV
+- PIL
+- TensorFlow / Keras
+- scikit-learn
+- Kaggle API
+
+Install dependencies in Colab:
+```bash
+!pip install kaggle
