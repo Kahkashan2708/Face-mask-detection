@@ -1,4 +1,4 @@
-# Face Mask Detection 🛡️😷
+# Face Mask Detection 🛡
 
 This project focuses on building a **Face Mask Detection** system using image classification. The model is trained on a dataset of images containing people with and without face masks and can distinguish between the two classes effectively.
 
@@ -6,7 +6,7 @@ This project focuses on building a **Face Mask Detection** system using image cl
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source**: [Kaggle - Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 - **Classes**: 
@@ -19,7 +19,7 @@ This project focuses on building a **Face Mask Detection** system using image cl
 
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 - Used a **Convolutional Neural Network (CNN)** for classification.
 - Built using **TensorFlow/Keras**.
@@ -30,7 +30,7 @@ This project focuses on building a **Face Mask Detection** system using image cl
 
 ---
 
-## 🧪 Training & Evaluation
+##  Training & Evaluation
 
 - Data split into **80% training** and **20% testing**
 - Loss Function: `binary_crossentropy`
@@ -38,7 +38,7 @@ This project focuses on building a **Face Mask Detection** system using image cl
 - Evaluation Metrics: `accuracy`
 
 ---
-## 📊 Results
+##  Results
 
 - Achieved strong accuracy on the test set
 - Confusion Matrix and Accuracy Curve were plotted for performance visualization
@@ -60,12 +60,12 @@ The model was trained for **10 epochs** and achieved the following results:
 | 6     | 93.95%         | 0.1597     | 92.23%       | 0.1996   |
 
 
-✨ **Peak validation accuracy**: **92.23%*  
+ **Peak validation accuracy**: **92.23%*  
 
 ---
 
 
-## 🛠️ Requirements
+## Requirements
 
 - Python
 - NumPy
