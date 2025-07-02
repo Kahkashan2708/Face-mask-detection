@@ -65,7 +65,7 @@ The model was trained for **10 epochs** and achieved the following results:
 ---
 
 
-## Requirements
+## Required Libraries
 
 - Python
 - NumPy
